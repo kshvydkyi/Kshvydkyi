@@ -1,9 +1,3 @@
-<style>
-  img{
-        background-color: aliceblue;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Коstyantyn</h1>
 <h3 align="center">Ucode Connect Student from Ukraine</h3>
 
