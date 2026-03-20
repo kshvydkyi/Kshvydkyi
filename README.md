@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Kosyantyn and I'm a JavaScript Full Stack developer, from Ukraine 🇺🇦</h2>
+<h2 align="center">Hi 👋! My name is Kosyantyn and I'm a Full-Stack Software Engineer (Node.js / React) </h2>
 
 ###
 
