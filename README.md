@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=kshvydkyi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/_1hNRujPSQMAAAAj/natalia-fruity.gif"  />
 
 ###
@@ -41,11 +35,4 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kshvydkyi/kshvydkyi/output/snake.svg" alt="Snake animation" />
-
 ###
